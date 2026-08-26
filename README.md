@@ -1,2 +1,3 @@
 ok
 nice
+bye
