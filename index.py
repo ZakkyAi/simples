@@ -10,3 +10,5 @@ def dorm():
     print(first + second + third)
     print(total)
 dorm()
+
+print("idk to do")
