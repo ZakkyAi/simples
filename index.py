@@ -12,3 +12,4 @@ def dorm():
 dorm()
 
 print("idk to do")
+print("feel kinda sad but ok")
