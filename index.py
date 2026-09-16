@@ -13,3 +13,4 @@ dorm()
 
 print("idk to do")
 print("feel kinda sad but ok")
+print("feel shit but ok")
