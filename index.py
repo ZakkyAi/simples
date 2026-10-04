@@ -29,3 +29,6 @@ print("ok bye")
 print("maybe in other life i code. instead of meachnical engineer but that fine")
 print("i have example tomorrow. so maybe later code")
 print("gg i lost football")
+
+desember10 = "i feel like this person piss me off"
+print(desember10)
