@@ -32,3 +32,6 @@ print("gg i lost football")
 
 desember10 = "i feel like this person piss me off"
 print(desember10)
+
+tomorrowExam = "i have mandarin exam tomorrow"
+print(tomorrowExam)
