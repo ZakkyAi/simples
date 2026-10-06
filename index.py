@@ -35,3 +35,6 @@ print(desember10)
 
 tomorrowExam = "i have mandarin exam tomorrow"
 print(tomorrowExam)
+
+idk = "123"
+print(idk)
